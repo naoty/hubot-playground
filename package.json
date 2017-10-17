@@ -1,0 +1,12 @@
+{
+  "name": "hubot-playground",
+  "description": "Hubot playground",
+  "repository": "https://github.com/naoty/hubot-playground",
+  "license": "MIT",
+  "scripts": {
+    "start": "hubot"
+  },
+  "dependencies": {
+    "hubot": "^2.19.0"
+  }
+}
