@@ -4,10 +4,11 @@
   "repository": "https://github.com/naoty/hubot-playground",
   "license": "MIT",
   "scripts": {
-    "start": "hubot"
+    "start": "hubot --adapter slack"
   },
   "dependencies": {
     "hubot": "^2.19.0",
+    "hubot-help": "^0.2.2",
     "hubot-slack": "^4.4.0"
   }
 }
